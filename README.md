@@ -11,10 +11,12 @@ Our team started with the vision of making booking your next appointment simple.
 - Appointments can be booked by clicking a slot on the calendar, options are provided for start and ends date, as well as choosing different different views (one to seven days). You can also customize your event by selecting a variety of colours. 
 
 ## Technologies Used
-- React.js
-- Node.js
-- MongoDB with Mongoose ORM
-- Google Login API
-- Express.js
-- Firebase
+```
+* React.js
+* Node.js
+* MongoDB with Mongoose ORM
+* Google Login API
+* Express.js
+* Firebase
+```
   
